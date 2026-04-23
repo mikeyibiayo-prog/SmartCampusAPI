@@ -1,0 +1,17 @@
+/Users/mikeyibiayo/NetBeansProjects/SmartCampusAPI/src/main/java/com/coursework/smartcampusapi/resources/SensorReadingResource.java
+/Users/mikeyibiayo/NetBeansProjects/SmartCampusAPI/src/main/java/com/coursework/smartcampusapi/storage/DataStore.java
+/Users/mikeyibiayo/NetBeansProjects/SmartCampusAPI/src/main/java/com/coursework/smartcampusapi/exceptions/SensorUnavailableException.java
+/Users/mikeyibiayo/NetBeansProjects/SmartCampusAPI/src/main/java/com/coursework/smartcampusapi/exceptions/GlobalExceptionMapper.java
+/Users/mikeyibiayo/NetBeansProjects/SmartCampusAPI/src/main/java/com/coursework/smartcampusapi/exceptions/SensorUnavailableExceptionMapper.java
+/Users/mikeyibiayo/NetBeansProjects/SmartCampusAPI/src/main/java/com/coursework/smartcampusapi/model/Sensor.java
+/Users/mikeyibiayo/NetBeansProjects/SmartCampusAPI/src/main/java/com/coursework/smartcampusapi/resources/DiscoveryResource.java
+/Users/mikeyibiayo/NetBeansProjects/SmartCampusAPI/src/main/java/com/coursework/smartcampusapi/filters/LoggingFilter.java
+/Users/mikeyibiayo/NetBeansProjects/SmartCampusAPI/src/main/java/com/coursework/smartcampusapi/model/SensorReading.java
+/Users/mikeyibiayo/NetBeansProjects/SmartCampusAPI/src/main/java/com/coursework/smartcampusapi/resources/SensorResource.java
+/Users/mikeyibiayo/NetBeansProjects/SmartCampusAPI/src/main/java/com/coursework/smartcampusapi/exceptions/LinkedResourceNotFoundException.java
+/Users/mikeyibiayo/NetBeansProjects/SmartCampusAPI/src/main/java/com/coursework/smartcampusapi/model/Room.java
+/Users/mikeyibiayo/NetBeansProjects/SmartCampusAPI/src/main/java/com/coursework/smartcampusapi/exceptions/RoomNotEmptyExceptionMapper.java
+/Users/mikeyibiayo/NetBeansProjects/SmartCampusAPI/src/main/java/com/coursework/smartcampusapi/config/SmartCampusApplication.java
+/Users/mikeyibiayo/NetBeansProjects/SmartCampusAPI/src/main/java/com/coursework/smartcampusapi/exceptions/LinkedResourceNotFoundExceptionMapper.java
+/Users/mikeyibiayo/NetBeansProjects/SmartCampusAPI/src/main/java/com/coursework/smartcampusapi/exceptions/RoomNotEmptyException.java
+/Users/mikeyibiayo/NetBeansProjects/SmartCampusAPI/src/main/java/com/coursework/smartcampusapi/resources/SensorRoomResource.java

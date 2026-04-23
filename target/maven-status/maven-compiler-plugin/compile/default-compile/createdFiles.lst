@@ -1,0 +1,17 @@
+com/coursework/smartcampusapi/resources/SensorResource.class
+com/coursework/smartcampusapi/resources/SensorRoomResource.class
+com/coursework/smartcampusapi/exceptions/LinkedResourceNotFoundException.class
+com/coursework/smartcampusapi/model/SensorReading.class
+com/coursework/smartcampusapi/exceptions/RoomNotEmptyExceptionMapper.class
+com/coursework/smartcampusapi/filters/LoggingFilter.class
+com/coursework/smartcampusapi/exceptions/GlobalExceptionMapper.class
+com/coursework/smartcampusapi/exceptions/LinkedResourceNotFoundExceptionMapper.class
+com/coursework/smartcampusapi/exceptions/SensorUnavailableException.class
+com/coursework/smartcampusapi/exceptions/SensorUnavailableExceptionMapper.class
+com/coursework/smartcampusapi/storage/DataStore.class
+com/coursework/smartcampusapi/resources/DiscoveryResource.class
+com/coursework/smartcampusapi/config/SmartCampusApplication.class
+com/coursework/smartcampusapi/exceptions/RoomNotEmptyException.class
+com/coursework/smartcampusapi/model/Sensor.class
+com/coursework/smartcampusapi/model/Room.class
+com/coursework/smartcampusapi/resources/SensorReadingResource.class
