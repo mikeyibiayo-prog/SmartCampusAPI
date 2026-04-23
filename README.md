@@ -1,4 +1,4 @@
-Author – Michael Ibiayo
+Authour – Michael Ibiayo
 Student ID – w2068359
 
 Part 1 Question 1:
